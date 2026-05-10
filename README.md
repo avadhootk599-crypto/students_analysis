@@ -135,10 +135,3 @@ df['percentage'] = (df['maths'] + df['reading'] + df['writing']) / 3
 4. Run all cells top to bottom
 
 ---
-
-## 🚀 Next Steps
-
-- [ ] Visualize findings with `matplotlib` / `seaborn`
-- [ ] Analyze scores by ethnic group
-- [ ] Correlation heatmap between all numeric columns
-- [ ] Build a score prediction model using `scikit-learn`
